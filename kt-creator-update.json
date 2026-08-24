@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "",
-  "changelog": "First version"
+  "changelog": "Fixed the TAB icon not disappearing after recording\nFixed an issue with player admission when bypassed players were first in the queue"
 }
